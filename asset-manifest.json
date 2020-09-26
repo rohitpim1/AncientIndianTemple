@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/AncientIndianTemple/static/css/main.3160d012.chunk.css",
+    "main.js": "/AncientIndianTemple/static/js/main.1c74e863.chunk.js",
+    "main.js.map": "/AncientIndianTemple/static/js/main.1c74e863.chunk.js.map",
+    "runtime-main.js": "/AncientIndianTemple/static/js/runtime-main.54472d91.js",
+    "runtime-main.js.map": "/AncientIndianTemple/static/js/runtime-main.54472d91.js.map",
+    "static/js/2.6258662b.chunk.js": "/AncientIndianTemple/static/js/2.6258662b.chunk.js",
+    "static/js/2.6258662b.chunk.js.map": "/AncientIndianTemple/static/js/2.6258662b.chunk.js.map",
+    "index.html": "/AncientIndianTemple/index.html",
+    "precache-manifest.dbae6bc91ed2b02e2fbf7d4437753f10.js": "/AncientIndianTemple/precache-manifest.dbae6bc91ed2b02e2fbf7d4437753f10.js",
+    "service-worker.js": "/AncientIndianTemple/service-worker.js",
+    "static/css/main.3160d012.chunk.css.map": "/AncientIndianTemple/static/css/main.3160d012.chunk.css.map",
+    "static/js/2.6258662b.chunk.js.LICENSE.txt": "/AncientIndianTemple/static/js/2.6258662b.chunk.js.LICENSE.txt",
+    "static/media/eastkahamakya.jpg": "/AncientIndianTemple/static/media/eastkahamakya.45166afc.jpg",
+    "static/media/eastkashi.jpg": "/AncientIndianTemple/static/media/eastkashi.82c30e82.jpg",
+    "static/media/eastkonark.jpg": "/AncientIndianTemple/static/media/eastkonark.32b43da7.jpg",
+    "static/media/nortamarnath.jpg": "/AncientIndianTemple/static/media/nortamarnath.06c3bff0.jpg",
+    "static/media/northbadrinath.jpg": "/AncientIndianTemple/static/media/northbadrinath.d1c96c64.jpg",
+    "static/media/northgolden.jpg": "/AncientIndianTemple/static/media/northgolden.89650963.jpg",
+    "static/media/northvaishnavi.jpg": "/AncientIndianTemple/static/media/northvaishnavi.5bd16a13.jpg",
+    "static/media/nothakshardham.jpg": "/AncientIndianTemple/static/media/nothakshardham.5ea69f1c.jpg",
+    "static/media/southbalaji.jpg": "/AncientIndianTemple/static/media/southbalaji.982eacb8.jpg",
+    "static/media/southpadmanaswamy.jpg": "/AncientIndianTemple/static/media/southpadmanaswamy.a83b234c.jpg",
+    "static/media/southramnath.jpg": "/AncientIndianTemple/static/media/southramnath.1bba6b9c.jpg",
+    "static/media/southvenket.jpg": "/AncientIndianTemple/static/media/southvenket.52f3837d.jpg",
+    "static/media/westminakshi.jpg": "/AncientIndianTemple/static/media/westminakshi.84085abd.jpg",
+    "static/media/westsrinathji.jpg": "/AncientIndianTemple/static/media/westsrinathji.a6f2d765.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54472d91.js",
+    "static/js/2.6258662b.chunk.js",
+    "static/css/main.3160d012.chunk.css",
+    "static/js/main.1c74e863.chunk.js"
+  ]
+}
